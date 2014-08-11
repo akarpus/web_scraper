@@ -1,6 +1,6 @@
 public class SimpleWebScraper {
 	public static void main(String args[]) {
-		scrapeTopic("/wiki/Java");
+		scrapeTopic("/wiki/Carleton_University");
 	}
 
 	public static void scrapeTopic(String url) {
