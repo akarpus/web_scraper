@@ -1,4 +1,4 @@
-public class WebScraper {
+public class SimpleWebScraper {
 	public static void main(String args[]) {
 		scrapeTopic("/wiki/Java");
 	}
